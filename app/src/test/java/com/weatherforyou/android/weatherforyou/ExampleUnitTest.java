@@ -1,4 +1,4 @@
-package android.weatherforyou.com.weatherforyou;
+package com.weatherforyou.android.weatherforyou;
 
 import org.junit.Test;
 
